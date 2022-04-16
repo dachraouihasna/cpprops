@@ -14,4 +14,7 @@ export const bio = {
     bio1: "BEAUTY IS NOT IN THE FACE ... ",
     bio2: "BEAUTY IS A LIGHT IN THE HEART"
 }
-export const profession = ""
+export const work = {
+    etude : "Faculté des sciences économique et gestion de Tunis",
+    travail : "Responsable commercial a LHTEX"
+}
